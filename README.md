@@ -1,7 +1,6 @@
 # - 👋 Hi, I’m Hassan AL-Hossaini (@Blooming0)✨
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Fullstack Engineering, and Machine Learning/Artificial Intelligence Engineering
-- 💞️ I’m looking to collaborate on Public and private sector (companies and institutions) remotely or in person
+- 🌱 I’m currently learning React + Backend .  
 - 📫 How to reach me ![Twiter OR (X)](@Hassan0Blooming).
 
 <!---
