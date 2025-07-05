@@ -52,9 +52,13 @@
 </p>
 
 ---
+## 📝 Recommendations
 
+I am honored to have received academic recommendation letters from two respected professors at my university.  
+You can view them here:
 
-
+- 📄 [Recommendation Letter 1](https://github.com/hassan0blooming/hassan0blooming/blob/main/recommendation1.pdf)
+- 📄 [Recommendation Letter 2](https://github.com/hassan0blooming/hassan0blooming/blob/main/recommendation2.pdf)
 ---
 
 > "Code with purpose, build with passion." 💙
