@@ -49,6 +49,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blooming0&show_icons=true&theme=tokyonight" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blooming0&layout=compact&theme=tokyonight" width="350"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=blooming0&theme=tokyonight&hide_border=true"/>
+  
+
 </p>
 
 ---
